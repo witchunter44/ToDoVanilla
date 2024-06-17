@@ -1,0 +1,17 @@
+Copyright for the "ToDo List" application
+
+1. License: This application is licensed under the GNU General Public License. Please read and accept the license terms before using the application.
+
+2. Originality: All content in the application, such as texts, graphics and icons, is original or properly licensed. Do not use copyrighted material without permission.
+
+3. External software: If you use libraries or code from other sources, make sure you comply with their licenses. Appropriate author and license information is required.
+
+4. Data security: The application should comply with personal data protection regulations. Explain to users what data is collected and how it is used.
+
+5. Educational and non-profit purpose: The photos used in the application are for educational purposes and the entire project is non-profit. Please keep this context when using the application.
+
+6. Freedom to Edit Code: Users have full freedom to edit the application's source code as per the license terms.
+
+7. Contact: If you have any questions or concerns regarding copyright, please contact me.
+
+2024 Bartosz Sądel
